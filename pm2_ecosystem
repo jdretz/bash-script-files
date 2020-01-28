@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: [name_of_project],
+    name: '[name_of_project]',
     script: 'server/server.js', // should be path the main file
 
     env_production: {
